@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "ESHU-MD=your_paircode",
+SESSION_ID: process.env.SESSION_ID || "ESHU-MD=9E4UyLQA#-z79yt3V11u1hv-4b0oFkA0E_uoGAR1BB4RPD9NtQ-g",
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", // true or false
