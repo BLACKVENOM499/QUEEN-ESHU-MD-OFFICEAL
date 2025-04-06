@@ -25,7 +25,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/nWJqfPb/mrgmax.jpg",
 CHANNEL_NAME: process.env.CHANNEL_NAME || "𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐕2",
 NEWSLETTER_ID: process.env.NEWSLETTER_ID || "120363378635880298@newsletter",
 TITLE: process.env.TITLE || "𝐐𝐔𝐄𝐄𝐍 𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐕2",
-BODY: process.env.BODY || "CREATED BY AKINDU 🧚‍♂️",
+BODY: process.env.BODY || "CREATED BY AKINDU",
 WEBURL: process.env.WEBURL|| "",
 BOT_IMG: process.env.BOT_IMG || "https://i.ibb.co/nWJqfPb/mrgmax.jpg"     
 };
